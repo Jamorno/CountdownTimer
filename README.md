@@ -16,7 +16,6 @@ Objectives
 - Programming Language: Swift
 - SwiftUI
 - Architecture: MVVM (Model-View-ViewModel)
-- Dynamic Colors: Randomized note colors are ensured to avoid repetition.
     
 ## Installation
 1. Clone the repository: `https://github.com/Jamorno/CountdownTimer.git`
