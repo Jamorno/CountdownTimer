@@ -7,7 +7,7 @@ Objectives
 - Portfolio Building: Accumulate a variety of projects to showcase creativity and technical expertise.
  
 # 1.CountDownTimer
-# Feaures
+# Features
 - Start, pause, and reset the timer.
 - Manage time efficiently with a simple and intuitive interface.
 - Displays the countdown dynamically and in real-time.
